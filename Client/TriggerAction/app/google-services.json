@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "93449050125",
+    "project_id": "iftttapp-9ca1f"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93449050125:android:d262c81b11e53818",
+        "android_client_info": {
+          "package_name": "ifttt.uci.com.iftttapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRBNTj1IJWApI5dzjRdJKZ3RipKuGPQqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
